@@ -1,0 +1,5 @@
+print("********** Print The Follwing Lines **********")
+print("This is \\\\ Double Back Shalsh")
+print("this are /\\ /\\ /\\ /\\ mountains")
+print("He is \t awsome \t and this is a tab")
+print("\\ \\n \\t \\' ")
